@@ -1,0 +1,25 @@
+.if {
+	&:before {
+		margin-right: 0.3em;
+	}
+
+	&-attention:before {
+		@include iconfont('\eb50', 24px);
+	}
+
+	&-hamburger:before {
+		@include iconfont('\e9b4', 24px);
+	}
+
+	&-info:before {
+		@include iconfont('\ea4d', 24px);
+	}
+
+	&-next:before {
+		@include iconfont('\eb48', 24px);
+	}
+
+	&-previous:before {
+		@include iconfont('\eb47', 24px);
+	}
+}
