@@ -43,4 +43,4 @@ The following commands are available for development:
 
 This work is licensed under a [MIT License](https://opensource.org/licenses/MIT). The latest version of this and other scripts by the same author can be found on [Github](https://github.com/WoollyMittens) and at [WoollyMittens.nl](https://www.woollymittens.nl/).
 
-The example Cosmo icon font is &copy; [Icojam](http://www.icojam.com/cosmo-color-icons/) and not meant for redistribution.
+The example Cosmo icon font is &copy; [Icojam](http://www.icojam.com/) and not meant for redistribution.
