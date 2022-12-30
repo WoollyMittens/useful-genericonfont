@@ -2,8 +2,6 @@
 
 Make generic icon fonts easy to work with.
 
-Try the <a href="http://www.woollymittens.nl/default.php?url=useful-genericonfont">demo</a>.
-
 ## How to include the script
 
 The stylesheet is best included in the header of the document.
